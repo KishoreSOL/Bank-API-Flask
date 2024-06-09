@@ -1,4 +1,4 @@
-# Money Management API
+# Bank Management API
 
 ## Overview
 The Money Management API is a RESTful service built with Flask and MongoDB, allowing users to manage their finances. Users can register, add funds, transfer money, check balances, take loans, and repay loans.
